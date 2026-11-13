@@ -279,10 +279,5 @@ DOI: [To be added].
 A `CITATION.cff` file may also be included to provide machine-readable citation metadata.
 
 
-## 12. Acknowledgements
 
-The authors acknowledge the providers of the publicly available digital financial datasets used in this study. Their contributions support research and experimental evaluation in financial fraud detection, credit-risk prediction, and cryptocurrency transaction analysis.
 
----
-
-**Important reproducibility note:** The repository should be regarded as a complete reproduction package only when the actual source files, data-generation scripts, experiment scripts, dependency specifications, random seeds, and result files have been uploaded and checked against the manuscript. The directory structure and example commands in this README should be updated to reflect the final implementation.
